@@ -1,0 +1,19 @@
+{
+    "name": "edlobo/logger",
+    "description": "This will generate an interface to log errors of our API",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Edwin Daniel Lobo Sanchez",
+            "email": "edlobo98@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Edlobo\\Logger\\": "src/"
+        }
+    }
+}
