@@ -22,8 +22,8 @@ class LoggerServiceProvider extends ServiceProvider{
     }
 
     public function register(){
-
-
+        
+        
 
     }
 
